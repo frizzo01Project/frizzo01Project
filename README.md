@@ -1,4 +1,4 @@
-## Welcome to Fabiana Rizzo's page. 
+## Welcome to Fabiana Rizzo's page 😁
 
 <!--
 **frizzo01Project/frizzo01Project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+   <a href="https://github.com/frizzo01Project">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=frizzo01Project&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frizzo01Project&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
