@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Fabiana Rizzo's page. 
 
 <!--
 **frizzo01Project/frizzo01Project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
